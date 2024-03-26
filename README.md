@@ -7,6 +7,9 @@ Pagination Simple Provider is a Flutter project that demonstrates how to impleme
 - Implements pagination to load more data as the user scrolls.
 - Uses Provider package for state management.
 
+## Medium Post
+You can find a detailed explanation of this project on [Medium](https://medium.com/@bensatriya3/efficient-api-data-handling-in-flutter-implementing-pagination-with-provider-772462f95a18).
+
 ## Prerequisites
 - Flutter SDK installed on your machine. You can get it from [here](https://flutter.dev/docs/get-started/install).
 - An IDE (such as Android Studio, VSCode) with Flutter support.

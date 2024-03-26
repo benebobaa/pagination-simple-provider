@@ -52,7 +52,6 @@ class _HomePageState extends State<HomePage> {
       ),
       body: Consumer<HomeProvider>(
         builder: (context, state, child) {
-          // print("state: ${state.homeState.status}");
           if (state.homeState.status == HomeStatus.initial) {
             return const Center(child: CircularProgressIndicator());
           }
